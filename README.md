@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-Computer Science Undergraduate | QA Enthusiast | Full-Stack Developer
+Computer Science Undergraduate | Aspiring QA Engineer | Full-Stack Development Enthusiast
 </h3>
 
 <p align="center">
