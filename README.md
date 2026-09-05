@@ -88,9 +88,6 @@ Computer Science Undergraduate | Aspiring QA Engineer | Full-Stack Development E
   <a href="https://www.linkedin.com/in/gnanarathna">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://hasitha-anjana-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
 </p>
 
 ---
